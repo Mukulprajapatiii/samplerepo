@@ -1,0 +1,24 @@
+* {
+    margin: 0;
+    padding: 0;
+
+}
+
+.upper-portion {
+    text-align: center;
+}
+
+.userprofile {
+    width: 200px;
+    
+}
+
+.head {
+    padding-bottom: 10px;
+    font-size: 30px;
+}
+
+.mainpara {
+    font-size: 30px;
+    padding-top: 10px;
+}
